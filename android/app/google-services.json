@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "315183160062",
+    "project_id": "resep-masakan-7d888",
+    "storage_bucket": "resep-masakan-7d888.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:315183160062:android:cba9b92b338c87c68ba3af",
+        "android_client_info": {
+          "package_name": "com.example.foodsapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "315183160062-dqp2m6u8ink1f3gcss7o4s8jdv1gqlg1.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.foodsapp",
+            "certificate_hash": "3e1eeaebfc5e462da36adf3f94a1a44c7965cd90"
+          }
+        },
+        {
+          "client_id": "315183160062-5fk34vjpbshgpfdb5nl00hc78b9p0tkr.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB_60SQdOamwaVJ1c8KtWDIjvK9iQUmfco"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "315183160062-5fk34vjpbshgpfdb5nl00hc78b9p0tkr.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
